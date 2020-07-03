@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html>
+
+<body>
+
+
+    <p>X</p>
+
+    <input type="text" id = "X">
+
+    </input>
+
+    <p>Y</p>
+
+    <input type="text" id = "Y">
+
+    </input>
+
+    <p>Radius</p>
+
+    <input type="text" id = "Radius">
+
+    </input>
+
+    <p></p>
+
+
+    <button onclick="myFunction()">Try it</button>
+
+
+    <canvas id = "canvas" width="500" height="500">
+    </canvas>
+
+
+    <script>
+
+        function myFunction(){
+
+            var canvas = document.getElementById("canvas");
+            var ctx = canvas.getContext("2d");
+
+            var x = document.getElementById("X").value ;
+            var y = document.getElementById("Y").value ;
+            var radius = document.getElementById("Radius").value ;
+
+
+            ctx.beginPath();
+            ctx.arc(x,y,radius,0*Math.PI,2*Math.PI);
+            ctx.fillStyle = "#e8e8e8";
+            ctx.fill();
+            ctx.stroke();
+
+
+
+
+
+
+
+
+        }
+
+
+    </script>
+
+</body>
+
+
+</html>

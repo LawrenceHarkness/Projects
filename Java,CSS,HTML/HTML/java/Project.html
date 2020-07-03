@@ -1,0 +1,70 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Processing Demo</title>
+<script type="text/javascript" src="processing.min.js"></script>
+</head>
+<body>
+<script type="text/processing">
+int tWidth = 9999;
+int tHeight = 9999;
+var faceSize = 176;
+var eyeSize = faceSize * 1/8;
+
+
+void setup(){
+
+colorMode(RGB);
+size(tWidth,tHeight);
+background(0);
+smooth();
+
+}
+
+
+
+
+void draw(){
+noStroke();
+var x = 208;
+var y = 223;
+
+// ears
+var earSize=faceSize*1/2;
+fill(89, 52, 17);
+ellipse(x-faceSize*2/5, y-faceSize*2/5, earSize, earSize);
+ellipse(x+faceSize*2/5, y-faceSize*2/5, earSize, earSize);
+
+// face
+fill(163, 113, 5);
+ellipse(x, y, faceSize, faceSize);
+
+
+
+//eyes
+fill(0, 0, 0);
+ellipse(x-faceSize/4,y-faceSize/8, eyeSize, eyeSize);
+ellipse(x+faceSize/4, y-faceSize/8, eyeSize, eyeSize);
+
+
+
+//nose
+fill(89, 52, 20);
+ellipse(x, y+faceSize/8, faceSize*4/15, faceSize/5);
+
+
+
+
+faceSize = faceSize + 5
+eyeSize = eyeSize + 5
+
+
+
+}
+
+
+ 
+</script>
+<canvas id="sketch" style="border: 1px solid black;"></canvas>
+</body>
+</html>

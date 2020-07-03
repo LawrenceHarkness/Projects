@@ -1,0 +1,89 @@
+<html>
+
+<body>
+    <canvas id = "canvas" width="500" height="500">
+    </canvas>
+
+    <script>
+
+    var canvas = document.getElementById("canvas");
+    var ctx = canvas.getContext("2d");
+
+    ctx.fillStyle = "#d1d1d1";
+    ctx.fillRect(0, 300, 400, 100);
+
+    var x = 300
+    var y = 200
+
+    ctx.beginPath();
+    ctx.arc(80, 80, 50, 50, 0, 360*Math.PI,2*Math.PI);
+    ctx.fillStyle = "#ffff00";
+    ctx.fill()
+    ctx.stroke();
+
+    //middle
+    ctx.beginPath();
+    ctx.arc(x, y , 75, 1500, 360*Math.PI,2*Math.PI);
+    ctx.fillStyle = "#e6e6e6";
+    ctx.fill()
+    ctx.stroke();
+
+    ctx.beginPath();
+    ctx.arc(x, y - 100, 50, 1500, 360*Math.PI,2*Math.PI);
+    ctx.fillStyle = "#e6e6e6";
+    ctx.fill()
+    ctx.stroke();
+
+ ctx.beginPath();
+    ctx.arc(x, y - 180, 35.25, 1500, 360*Math.PI,2*Math.PI);
+    ctx.fillStyle = "#e6e6e6";
+    ctx.fill()
+    ctx.stroke();
+
+ ctx.beginPath();
+    ctx.arc(x - 15, y - 200, 5, 1500, 360*Math.PI,2*Math.PI);
+   ctx.arc(x + 8, y -200, 5, 1500, 360*Math.PI,2*Math.PI);
+    ctx.fillStyle = "#000000";
+    ctx.fill()
+    ctx.stroke();
+
+
+
+
+   ctx.beginPath();
+   ctx.arc(x, y- 120, 5, 1500, 360*Math.PI,2*Math.PI);
+   ctx.arc(x, y - 100, 5, 1500, 360*Math.PI,2*Math.PI);
+    ctx.arc(x, y - 80, 5, 1500, 360*Math.PI,2*Math.PI);
+    ctx.fillStyle = "#000000";
+    ctx.fill()
+    ctx.stroke();
+
+    ctx.beginPath();
+    ctx.moveTo(x, y - 170);
+    ctx.lineTo(x, y - 180);
+    ctx.lineTo(x- 120, y - 180);
+    ctx.lineTo(x, y - 170);
+    ctx.fillStyle = "##ff9900";
+    ctx.fill()
+    ctx.stroke();
+
+
+
+
+
+
+
+
+
+
+
+    </script>
+
+
+
+
+</body>
+
+
+
+</html>

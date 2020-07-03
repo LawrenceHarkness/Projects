@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+
+<canvas id= "canvas" width="9999" height="9999">
+    </canvas>
+
+
+<script>
+
+function getMousePos(canvas, evt) {
+    var rect = canvas.getBoundingClientRect();
+    return{
+    x: evt.clientX - rect.left,
+    y: evt.clientY - rect.top
+
+
+
+    };
+}
+    var canvas = document.getElementById("canvas");
+    var ctx = canvas.getContext("2d");
+canvas.addEventListener('mousemove', function(evt)
+    {
+
+    var mousePos = getMousePos(canvas, evt);
+    ctx.beginPath();
+    ctx.arc(mousePos.x, mousePos.y, (mousePos.x - 100)/2, 0*Math.PI, 2*Math.PI);
+    ctx.fill();
+    ctx.stroke();
+
+
+
+},false)  ;
+
+</script>
+
+
+</body>
+</html>

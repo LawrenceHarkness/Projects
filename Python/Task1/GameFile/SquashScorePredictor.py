@@ -1,0 +1,1 @@
+winnng_score = input()

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+<body>
+
+<p>x</p>
+<input type="text" id = "x">
+
+</input>
+
+<p>y</p>
+<input type="text" id = "y">
+
+</input>
+
+<p>Radius</p>
+<input type="text" id = "rad">
+
+</input>
+
+<p></p>
+
+<button onclick="myFunction()"> Try it </button>
+
+<canvas id = "canvas" width="500" height="500">
+
+    </canvas>
+
+
+
+
+
+<script>
+
+function  myFunction(){
+
+var canvas = document.getElementById("canvas");
+var ctx = canvas.getContext("2d");
+
+
+var x = document.getElementById("x").value;
+var y = document.getElementById("y").value;
+var rad = document.getElementById("rad").value;
+
+ctx.beginPath();
+ctx.arc(x, y, rad, 40, 0*Math.PI,2*Math.PI);
+ctx.stroke();
+
+
+
+
+
+
+
+
+}
+
+</script>
+
+
+
+</body>
+</html>
+
+
+
+
+dikokobToday at 15:45
+<html>
+
+
+<body>
+    <canvas id= "canvas" width="400" height="400"> </canvas>
+
+    <script>
+
+        function getMousePos(canvas, evt){
+            var rect = canvas.getBoundingClientRect();
+            return {
+          x: evt.clientX - rect.left,
+          y: evt.clientY - rect.top
+        };
+      }
+
+      var canvas = document.getElementById('canvas');
+      var ctx = canvas.getContext('2d');
+
+      canvas.addEventListener('mousemove', function(evt)
+    {
+
+    var mousePos = getMousePos(canvas, evt);
+    ctx.beginPath();
+    ctx.arc(mousePos.x, mousePos.y, (mousePos.x - 100)/2, 0Math.PI, 2Math.PI);
+    ctx.fill();
+    ctx.stroke();
+
+
+
+},false)  ;
+    </script>
+</body>
+
+</html>

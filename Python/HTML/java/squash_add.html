@@ -1,0 +1,62 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Processing Demo</title>
+<script type="text/javascript" src="processing.min.js"></script>
+</head>
+<body>
+<script type="text/processing">
+int tWidth = 800;
+int tHeight = 600;
+void setup(){
+
+colorMode(RGB);
+size(tWidth,tHeight);
+background(0);
+smooth();
+background(255, 255, 255);
+
+
+
+
+
+
+
+}
+
+
+
+
+void draw(){
+// \/ START OF CODE \/ \\
+
+
+// background squash court
+background(242, 220, 175);
+fill(255, 0, 0);
+rect(198,212 ,11, 203);
+rect(0,212 ,414, 7);
+
+//Text
+fill(0, 0, 0);
+textSize(30);
+text("Squash Balls", 104, 68);
+textSize(20);
+text("Bouncy, firm, used to play squash", 12, 102);
+textSize(15);
+text("Call 000 000 000 to order today!", 12, 129);
+//Squash ball
+ellipse(306,257,150,150);
+fill(252, 227, 0);
+ellipse(306,224,10,14);
+ellipse(340,224,10,14);
+
+
+}
+
+
+ 
+</script>
+<canvas id="sketch" style="border: 1px solid black;"></canvas>
+</body>
+</html>
