@@ -24,18 +24,61 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python/Sorting&amp;Searching" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python/Maths/quadraticFormula/quadratic.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lawre\Documents\GitHub\Projects\Python\Data\SportScienceDog" />
+      <recent name="C:\Users\lawre\Documents\GitHub\Projects\Python\Sorting&amp;Searching" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\lawre\Documents\GitHub\Projects\Python\Sorting&amp;Searching" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\lawre\Documents\GitHub\Projects\Python\Sorting&amp;Searching" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.Search">
+  <component name="RunManager" selected="Python.Quadratic">
+    <configuration name="InsertionSort" type="PythonConfigurationType" factoryName="Python">
+      <module name="Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lawre\AppData\Local\Microsoft\WindowsApps\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Sorting&amp;Searching" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Sorting&amp;Searching/insertion_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python">
+      <module name="Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lawre\AppData\Local\Microsoft\WindowsApps\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Data" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Data/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Molch" type="PythonConfigurationType" factoryName="Python">
       <module name="Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -49,6 +92,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Molch/CODE_BREAKER.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Quadratic" type="PythonConfigurationType" factoryName="Python">
+      <module name="Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lawre\AppData\Local\Microsoft\WindowsApps\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Maths/quadraticFormula" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Maths/quadraticFormula/quadratic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,9 +142,100 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="TestSort" type="PythonConfigurationType" factoryName="Python">
+      <module name="Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lawre\AppData\Local\Microsoft\WindowsApps\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Sorting&amp;Searching/sortTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mergeSort" type="PythonConfigurationType" factoryName="Python">
+      <module name="Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lawre\AppData\Local\Microsoft\WindowsApps\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Sorting&amp;Searching" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Sorting&amp;Searching/merge_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="selectionSort" type="PythonConfigurationType" factoryName="Python">
+      <module name="Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lawre\AppData\Local\Microsoft\WindowsApps\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Sorting&amp;Searching" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Sorting&amp;Searching/selectionsort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
+      <module name="Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lawre\AppData\Local\Microsoft\WindowsApps\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Data" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Data/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Python.InsertionSort" />
+      <item itemvalue="Python.Main" />
       <item itemvalue="Python.Molch" />
+      <item itemvalue="Python.Quadratic" />
       <item itemvalue="Python.Search" />
+      <item itemvalue="Python.TestSort" />
+      <item itemvalue="Python.mergeSort" />
+      <item itemvalue="Python.selectionSort" />
+      <item itemvalue="Python.test" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -95,55 +250,102 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="175" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600437523941">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="442" y="65" width="1165" height="1047" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610026609052">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="414" y="175" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600437523941" />
-    <state x="740" y="287" key="FileChooserDialogImpl" timestamp="1600437522630">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="368" y="155" width="971" height="747" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.920@0.0.1707.920" timestamp="1602853514973" />
+    <state x="442" y="65" width="1165" height="1047" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1610026609052" />
+    <state x="789" y="307" key="FileChooserDialogImpl" timestamp="1610026607246">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="740" y="287" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600437522630" />
-    <state width="1899" height="348" key="GridCell.Tab.0.bottom" timestamp="1601547658193">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="658" y="254" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1602853513764" />
+    <state x="789" y="307" key="FileChooserDialogImpl/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1610026607246" />
+    <state width="1899" height="299" key="GridCell.Tab.0.bottom" timestamp="1610555099517">
+      <screen x="-1920" y="345" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601547658193" />
-    <state width="1899" height="348" key="GridCell.Tab.0.center" timestamp="1601547658193">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1685" height="2" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1602867230103" />
+    <state width="2027" height="397" key="GridCell.Tab.0.bottom/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1610029045502" />
+    <state width="1899" height="299" key="GridCell.Tab.0.bottom/0.0.2048.1112/-1920.345.1920.1040@-1920.345.1920.1040" timestamp="1610555099517" />
+    <state width="2027" height="325" key="GridCell.Tab.0.bottom/0.0.2048.1112/-1920.345.1920.1040@0.0.2048.1112" timestamp="1610496503123" />
+    <state width="2027" height="234" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.261.1536.824@0.0.2048.1112" timestamp="1603383059350" />
+    <state width="1899" height="299" key="GridCell.Tab.0.center" timestamp="1610555099516">
+      <screen x="-1920" y="345" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601547658193" />
-    <state width="1899" height="348" key="GridCell.Tab.0.left" timestamp="1601547658193">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1685" height="2" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1602867230103" />
+    <state width="2027" height="397" key="GridCell.Tab.0.center/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1610029045501" />
+    <state width="1899" height="299" key="GridCell.Tab.0.center/0.0.2048.1112/-1920.345.1920.1040@-1920.345.1920.1040" timestamp="1610555099516" />
+    <state width="2027" height="325" key="GridCell.Tab.0.center/0.0.2048.1112/-1920.345.1920.1040@0.0.2048.1112" timestamp="1610496503123" />
+    <state width="2027" height="234" key="GridCell.Tab.0.center/0.0.2048.1112/2560.261.1536.824@0.0.2048.1112" timestamp="1603383059350" />
+    <state width="1899" height="299" key="GridCell.Tab.0.left" timestamp="1610555099516">
+      <screen x="-1920" y="345" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601547658193" />
-    <state width="1899" height="348" key="GridCell.Tab.0.right" timestamp="1601547658193">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1685" height="2" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1602867230103" />
+    <state width="2027" height="397" key="GridCell.Tab.0.left/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1610029045501" />
+    <state width="1899" height="299" key="GridCell.Tab.0.left/0.0.2048.1112/-1920.345.1920.1040@-1920.345.1920.1040" timestamp="1610555099516" />
+    <state width="2027" height="325" key="GridCell.Tab.0.left/0.0.2048.1112/-1920.345.1920.1040@0.0.2048.1112" timestamp="1610496503123" />
+    <state width="2027" height="234" key="GridCell.Tab.0.left/0.0.2048.1112/2560.261.1536.824@0.0.2048.1112" timestamp="1603383059350" />
+    <state width="1899" height="299" key="GridCell.Tab.0.right" timestamp="1610555099517">
+      <screen x="-1920" y="345" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601547658193" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1601547658193">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1685" height="2" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1602867230103" />
+    <state width="2027" height="397" key="GridCell.Tab.0.right/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1610029045502" />
+    <state width="1899" height="299" key="GridCell.Tab.0.right/0.0.2048.1112/-1920.345.1920.1040@-1920.345.1920.1040" timestamp="1610555099517" />
+    <state width="2027" height="325" key="GridCell.Tab.0.right/0.0.2048.1112/-1920.345.1920.1040@0.0.2048.1112" timestamp="1610496503123" />
+    <state width="2027" height="234" key="GridCell.Tab.0.right/0.0.2048.1112/2560.261.1536.824@0.0.2048.1112" timestamp="1603383059350" />
+    <state width="2027" height="397" key="GridCell.Tab.1.bottom" timestamp="1610029045502">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601547658193" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1601547658193">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1685" height="2" key="GridCell.Tab.1.bottom/0.0.1707.920@0.0.1707.920" timestamp="1602867230103" />
+    <state width="2027" height="397" key="GridCell.Tab.1.bottom/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1610029045502" />
+    <state width="2027" height="397" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.261.1536.824@0.0.2048.1112" timestamp="1603383059308" />
+    <state width="2027" height="397" key="GridCell.Tab.1.center" timestamp="1610029045502">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601547658193" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1601547658193">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1685" height="2" key="GridCell.Tab.1.center/0.0.1707.920@0.0.1707.920" timestamp="1602867230103" />
+    <state width="2027" height="397" key="GridCell.Tab.1.center/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1610029045502" />
+    <state width="2027" height="397" key="GridCell.Tab.1.center/0.0.2048.1112/2560.261.1536.824@0.0.2048.1112" timestamp="1603383059308" />
+    <state width="2027" height="397" key="GridCell.Tab.1.left" timestamp="1610029045502">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601547658193" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1601547658193">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1685" height="2" key="GridCell.Tab.1.left/0.0.1707.920@0.0.1707.920" timestamp="1602867230103" />
+    <state width="2027" height="397" key="GridCell.Tab.1.left/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1610029045502" />
+    <state width="2027" height="397" key="GridCell.Tab.1.left/0.0.2048.1112/2560.261.1536.824@0.0.2048.1112" timestamp="1603383059308" />
+    <state width="2027" height="397" key="GridCell.Tab.1.right" timestamp="1610029045502">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601547658193" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1600438355016">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1685" height="2" key="GridCell.Tab.1.right/0.0.1707.920@0.0.1707.920" timestamp="1602867230103" />
+    <state width="2027" height="397" key="GridCell.Tab.1.right/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1610029045502" />
+    <state width="2027" height="397" key="GridCell.Tab.1.right/0.0.2048.1112/2560.261.1536.824@0.0.2048.1112" timestamp="1603383059308" />
+    <state x="410" y="146" key="SettingsEditor" timestamp="1602764608681">
+      <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600438355016" />
+    <state x="410" y="146" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1602764608681" />
+    <state width="1032" height="565" key="XDebugger.FullValuePopup" timestamp="1603358135897">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="860" height="467" key="XDebugger.FullValuePopup/0.0.1707.920@0.0.1707.920" timestamp="1602854750516" />
+    <state width="1032" height="565" key="XDebugger.FullValuePopup/0.0.2048.1112/2560.261.1536.824@0.0.2048.1112" timestamp="1603358135897" />
+    <state x="-6" y="0" width="1936" height="1096" key="dock-window-1" timestamp="1610380514729">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="-6" y="0" width="1936" height="1096" key="dock-window-1/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1610029045566" />
+    <state x="-6" y="0" width="1936" height="1096" key="dock-window-1/0.0.2048.1112/-1920.345.1920.1040@0.0.2048.1112" timestamp="1610380514729" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python/Data/test.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="Array.sort()" language="Python" />
+        <watch expression="row['distance']" language="Python" />
+        <watch expression="type(row)" language="Python" />
       </configuration>
     </watches-manager>
   </component>
