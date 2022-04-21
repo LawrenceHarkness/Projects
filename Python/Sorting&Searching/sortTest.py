@@ -4,8 +4,8 @@ import time
 i = 0
 list = []
 
-while i <= random.randint(1, 10):
-    list.append(random.randint(1, 10))
+while i <= random.randint(1, 10000):
+    list.append(random.randint(1, 10000))
     i = i + 1
 
 def selecSort(i,list):
